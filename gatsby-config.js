@@ -4,7 +4,7 @@ module.exports = {
     description: `Engage - Full Remote Agency - Web Design, Web Development, Automated Marketing.`,
     author: `@engage`
   },
-  pathPrefix: "/portfolio",
+  pathPrefix: "/public",
   // plugins
   plugins: [
     `gatsby-plugin-react-helmet`,
