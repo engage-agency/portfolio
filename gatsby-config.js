@@ -3,8 +3,8 @@ module.exports = {
     title: `Engage - Higly skilled web experts`,
     description: `Engage - Full Remote Agency - Web Design, Web Development, Automated Marketing.`,
     author: `@engage`,
-    // pathPrefix: "/public"
   },
+  pathPrefix: "/public",
   // plugins
   plugins: [
     `gatsby-plugin-react-helmet`,
