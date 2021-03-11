@@ -2,9 +2,9 @@ module.exports = {
   siteMetadata: {
     title: `Engage - Higly skilled web experts`,
     description: `Engage - Full Remote Agency - Web Design, Web Development, Automated Marketing.`,
-    author: `@engage`,
-    pathPrefix: "/portfolio"
+    author: `@engage`
   },
+  pathPrefix: "/portfolio",
   // plugins
   plugins: [
     `gatsby-plugin-react-helmet`,
