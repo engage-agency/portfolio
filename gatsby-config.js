@@ -3,7 +3,7 @@ module.exports = {
     title: `Engage - Higly skilled web experts`,
     description: `Engage - Full Remote Agency - Web Design, Web Development, Automated Marketing.`,
     author: `@engage`,
-    pathPrefix: "/portfolio"
+    // pathPrefix: "/public"
   },
   // plugins
   plugins: [
