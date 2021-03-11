@@ -3,6 +3,7 @@ module.exports = {
     title: `Engage - Higly skilled web experts`,
     description: `Engage - Full Remote Agency - Web Design, Web Development, Automated Marketing.`,
     author: `@engage`,
+    pathPrefix: "/portfolio"
   },
   // plugins
   plugins: [
@@ -32,7 +33,7 @@ module.exports = {
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
   ],
-  module.exports = {
-    pathPrefix: "/portfolio",
-  }
+  // module.exports = {
+  //   pathPrefix: "/portfolio",
+  // }
 }
