@@ -1,0 +1,13 @@
+#silviu-stefanescu account
+Host github.com-silviu-stefanescu
+   HostName github.com
+   User git
+   IdentityFile ~/.ssh/2021_ssn_gh_key
+   IdentitiesOnly yes
+
+#engage-agency account
+Host github.com-engage-agency
+   HostName github.com
+   User git
+   IdentityFile ~/.ssh/2021_engage_ink
+   IdentitiesOnly yes

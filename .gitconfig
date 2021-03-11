@@ -1,0 +1,5 @@
+# [includeIf "gitdir:/Documents/Projects-2021/portfolio/"]
+#     [user]
+#         email = "ink_express@yahoo.com"
+#     [core]
+#         sshCommand = "ssh -i ~/.ssh/2021_engage_ink"
