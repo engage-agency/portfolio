@@ -4,7 +4,7 @@ const ghpages = require('gh-pages')
 ghpages.publish(
   'public',
   {
-    branch: 'gh-pages',
+    branch: 'public',
     repo: 'https://github.com/engage-agency/portfolio.git',
   },
   () => {
